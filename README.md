@@ -15,3 +15,4 @@ java -Djava.ext.dirs=../lib activitystreamer.Server</p>
 <h2>Activity Format</h2>
 <p>If the client wants send an activity message, it must input a JSON text in GUI such as
 {"sport": "running"}, just as the picture shows:</p>
+<img src='https://github.com/Sonmone/Distributed-System-Project2/blob/master/description.png'>
